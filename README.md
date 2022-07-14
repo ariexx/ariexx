@@ -1,6 +1,6 @@
 <h2>Hi there 👋 !</h2>
 
-My name Muhammad Arief. I'm currently working as Backend Web Developer on Startup.
+My name Muhammad Arief. I'm currently working as Backend Web Developer.
 
 🌱 I’m currently learning Laravel, NodeJS and VueJS
 
