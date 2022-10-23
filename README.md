@@ -2,7 +2,7 @@
 
 My name Muhammad Arief. I'm currently working as Backend Web Developer.
 
-🌱 I’m currently learning Laravel, NodeJS and VueJS
+🌱 I’m currently learning Laravel, Golang and VueJS
 
 <!---
 ariexx/ariexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
